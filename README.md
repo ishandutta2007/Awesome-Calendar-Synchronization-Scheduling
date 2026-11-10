@@ -1,6 +1,6 @@
 # Awesome-Calendar-Synchronization-Scheduling
 
-# Top Calendar Synchronization & Scheduling Ecosystem
+## Top Calendar Synchronization & Scheduling Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on CalDAV Sync, Appointment Booking & Meeting Poll Automation*  
