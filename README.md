@@ -15,42 +15,30 @@ This repository tracks notable **SaaS platforms** and **open-source projects** f
 Contributions welcome! Open an PR to add/update entries. Keep descriptions factual and link to official sites.
 
 ## Table of Contents
-- [SaaS/Hosted Platforms](#saas-products)
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
+- [SaaS/Hosted Platforms](#saashosted-platforms)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
+
+The global appointment scheduling and calendar synchronization software market is valued at approximately $0.6B–$1.5B (scaling beyond $3.5B+ when including broader workforce/field scheduling) and is expanding at a CAGR of 10%–14%. The sector exhibits moderate-to-high fragmentation: while core enterprise email/calendar infrastructure is dominated by tech giants (Microsoft and Google), the booking and synchronization layer remains highly distributed across hundreds of point solutions and specialized vertical tools with no single winner-take-all monopoly.
+
 ## SaaS/Hosted Platforms
 
-- **[Google Calendar Sync](https://calendar.google.com/)**  
-  Google's native calendar service with two-way sync across Android, iOS, web, and third-party apps; supports shared calendars, appointment scheduling pages, and Google Meet integration for virtual meetings.
-
-- **[Microsoft Outlook Sync](https://www.microsoft.com/en-us/microsoft-365/outlook/)**  
-  Microsoft's calendar and email client with Exchange ActiveSync, Microsoft 365 calendar sharing, Teams meeting integration, and booking pages via Microsoft Bookings for customer-facing scheduling.
-
-- **[Calendly](https://calendly.com/)**  
-  Scheduling automation platform that eliminates back-and-forth emails; integrates with Google, Microsoft Teams, Outlook, Zoom, Stripe, PayPal, HubSpot, Salesforce, and more. Paid tiers add team scheduling, routing, and SSO.
-
-- **[Chili Piper](https://www.chilipiper.com/)**  
-  Buyer-centric meeting scheduling for revenue teams; instant booking from web forms, routing to the right rep based on territory or round-robin rules, and CRM-native handoff for sales and marketing qualified leads.
-
-- **[Cron](https://cron.com/)** (now Notion Calendar)  
-  Calendar app designed for speed and keyboard-driven navigation, with multi-account support, time zone handling, and integration with Notion for meeting-linked notes.
-
-- **[YouCanBookMe](https://youcanbook.me/)**  
-  Customizable booking pages with buffer times, intake forms, team routing, and payment collection; integrates with Google Calendar, Outlook, and major video conferencing tools.
-
-- **[Acuity Scheduling](https://acuityscheduling.com/)**  
-  Appointment scheduling platform for service businesses with client self-booking, automated reminders, intake forms, package/subscription sales, and integration with Squarespace and Stripe.
-
-- **[Doodle](https://doodle.com/)**  
-  Group meeting poll tool for finding times that work across multiple participants without requiring account creation for voters; supports calendar integration for automatic availability detection.
-
-- **[Cirrus Insight](https://www.cirrusinsight.com/)**  
-  Sales productivity platform with calendar scheduling, email tracking, and CRM sync (Salesforce, HubSpot); enables meeting booking from within email and automatic activity logging.
-
-- **[Freshworks Calendar Sync](https://www.freshworks.com/)**  
-  Calendar synchronization within the Freshworks CRM ecosystem, connecting sales activities and meetings with Google Calendar and Outlook for unified customer timelines.
+| Company / Product | Company Size (Revenue / Valuation) | Pricing (Starting Tier) | Free Tier Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Outlook Sync](https://www.microsoft.com/en-us/microsoft-365/outlook/)** | ~$3.1T Market Cap (~$245B ARR / Revenue) | $6.00/user/month (Microsoft 365 Business Basic, annual commitment) | Free forever personal account via Outlook.com (free web/mobile app, 15 GB mailbox storage, 5 GB OneDrive cloud storage; Microsoft Bookings & custom domains require paid 365 license) | Microsoft's enterprise calendar & email client with Exchange ActiveSync, Microsoft 365 shared calendars, Teams integration, and customer-facing scheduling pages via Microsoft Bookings. |
+| **[Google Calendar Sync](https://calendar.google.com/)** | ~$2.1T Market Cap (~$350B Revenue) | $6.00/user/month (Google Workspace Business Starter, annual commitment) | Free forever personal Google account (includes 15 GB shared Google Drive/Gmail storage, unlimited events/calendars, basic single booking page; multi-appointment schedules & payment collection require Workspace) | Native calendar service with two-way sync across Android, iOS, web, and third-party apps; supports shared team calendars, appointment booking slots, and Google Meet integration. |
+| **[Cron (now Notion Calendar)](https://cron.com/)** | ~$11B Valuation (~$600M ARR) | $10.00/seat/month (Notion Plus plan, billed annually) | Free forever standalone calendar app (connects multiple Google Calendars, unlimited 1:1 scheduling links; workspace database limits follow Notion Free plan: unlimited blocks for solo users, 1,000 blocks cap for teams of 2+ members, 5 MB file upload limit) | Keyboard-driven calendar application designed for speed, multi-account overlay, global time zone coordination, and bidirectional sync with Notion databases. |
+| **[Freshworks Calendar Sync](https://www.freshworks.com/)** | ~$3.5B Market Cap (~$965M ARR) | $9.00/user/month (Freshsales Growth tier, billed annually) | Free forever plan for up to 3 users (includes 2-way Google Calendar and Outlook/Microsoft 365 sync, contact management, capped at 1,000 API requests/hour; 21-day full-feature trial for paid tiers) | Unified CRM calendar integration linking sales and service pipelines directly to Google and Microsoft Outlook schedules for automated activity logging. |
+| **[Calendly](https://calendly.com/)** | ~$3.0B Valuation (~$350M ARR) | $10.00/seat/month (Standard tier, billed annually) | Free forever plan: 1 user, 1 connected calendar account, 1 active event type rule, unlimited 1-on-1 bookings, basic automated notifications (no automated SMS, group/round-robin events, or payment gateways; 14-day free trial of Teams tier) | Category-leading scheduling automation platform eliminating back-and-forth emails; automates routing, multi-person availability, and cross-platform integrations. |
+| **[Acuity Scheduling](https://acuityscheduling.com/)** | Subsidiary of Squarespace (Acquired for ~$100M+; Squarespace taken private at ~$7.2B) | $16.00/month (Starter tier, billed annually) | No free forever plan; 7-day free trial (extended to 14 days when bundled with a Squarespace website trial; includes 1 calendar and full scheduling features without requiring a credit card) | Appointment scheduling platform optimized for service businesses, client self-scheduling, intake questionnaires, recurring memberships/subscriptions, and payment processing. |
+| **[Chili Piper](https://www.chilipiper.com/)** | ~$625M Valuation (~$45M–$50M ARR) | $15.00/user/month (ChiliCal Standalone, billed annually; Growth tier starts at $15,000/year base) | No free forever plan and no public self-serve free trial; access requires a live enterprise sales demo and annual contract agreement | Inbound conversion and routing scheduling software for B2B revenue teams; features automated instant booking directly from web forms and round-robin CRM assignment. |
+| **[Cirrus Insight](https://www.cirrusinsight.com/)** | ~$15M–$25M Estimated Valuation (~$8M–$12M ARR; Private Equity owned) | $11.00/user/month (Salesforce Sidebar & Calendar Sync module, billed annually) | No free forever plan; 14-day free trial with full access to sidebar CRM tracking, calendar sync, and email sequence testing | Sales enablement and calendar sync platform natively integrating Microsoft 365 and Google Calendar with Salesforce and CRM records. |
+| **[Doodle](https://doodle.com/)** | Subsidiary of TX Group (~$1.1B Market Cap; Doodle standalone ARR ~$15M–$25M) | $6.95/user/month (Pro tier, billed annually) | Free forever plan: 1 user, 1 active group poll, 1 booking page, 1 sign-up sheet, ad-supported interface (no custom branding, automated reminders, or calendar-sync detection; 14-day Pro free trial) | Popular group meeting poll and consensus scheduling tool enabling participants to vote on ideal time windows across different calendars without an account. |
+| **[YouCanBookMe](https://youcanbook.me/)** | ~$15M–$25M Estimated Valuation (Bootstrapped, ~$5M ARR) | $9.00/month (Individual tier, billed annually) | Free forever plan: 1 calendar connection, 1 booking page, capped at 30 bookings per month, includes YouCanBookMe branding (14-day unlimited free trial of paid features) | Intuitive booking system with buffer times, configurable question forms, time zone conversion, and video conferencing sync. |
 
 ## Open-Source GitHub Projects
 
