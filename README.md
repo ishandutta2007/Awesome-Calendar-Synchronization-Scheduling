@@ -66,7 +66,7 @@ The industry exhibits **moderate-to-high fragmentation**:
 
 ## 🔓 Open-Source GitHub Projects
 
-Sorted by GitHub stars in descending order. Every badge links directly to the project's stargazers page.
+Sorted by GitHub_Stars in descending order. Every badge links directly to the project's stargazers page.
 
 ### 🚀 Top Self-Hosted Schedulers &amp; Sync Engines
 
@@ -160,7 +160,7 @@ Contributions are welcome and actively encouraged! 🚀
 1. 🍴 **Fork the repository** to your GitHub account.
 2. 🌿 **Create a descriptive feature branch** (`git checkout -b add-scheduling-tool`).
 3. 📝 **Add or update entries in `README.md`** following the existing format:
-   - Must include name, official link, GitHub star badge, and an objective description.
+   - Must include name, official link, GitHub Stars_Badge, and an objective description.
    - For SaaS products, include exact pricing and free tier limits in the SaaS table.
 4. 🚀 **Submit a Pull Request (PR)** detailing the project added and why it benefits the calendar synchronization ecosystem.
 
